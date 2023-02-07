@@ -1,0 +1,39 @@
+body {
+    /* background-color: #c81d2599; */
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+}
+
+#img1 {
+    width:600px;
+    height: 400px;
+}
+
+p {
+    width: 50%;
+    text-align: justify;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    text-align:justify;
+}
+
+.image {
+    margin: 1rem;
+}
